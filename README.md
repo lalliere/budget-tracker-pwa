@@ -12,14 +12,14 @@ This is a budget tracking application that has been reconfigured to be a Progres
 
 * ### PWA Instructions
     * Follow these instructions to download from your browser:
-        1. Navigate to [https://secure-bayou-27137.herokuapp.com/](https://secure-bayou-27137.herokuapp.com/) 
+        1. Navigate to [https://my-budget-tracker-pwa.herokuapp.com/](https://my-budget-tracker-pwa.herokuapp.com/) 
         2. Click the plus (+) sign at the far right end of your browser's URL bar
-        
+
     * Follow these instructions to install a PWA for your specific smartphone OS:
 
         * iOs:
 
-            1. Navigate to [https://secure-bayou-27137.herokuapp.com/](https://secure-bayou-27137.herokuapp.com/) with Safari.
+            1. Navigate to [https://my-budget-tracker-pwa.herokuapp.com/](https://my-budget-tracker-pwa.herokuapp.com/) with Safari.
 
             2. Tap the Share button in Safari.
 
@@ -31,7 +31,7 @@ This is a budget tracking application that has been reconfigured to be a Progres
 
         * Android:
 
-            1. Navigate to [https://secure-bayou-27137.herokuapp.com/](https://secure-bayou-27137.herokuapp.com/) with Chrome.
+            1. Navigate to [https://my-budget-tracker-pwa.herokuapp.com/](https://my-budget-tracker-pwa.herokuapp.com/) with Chrome.
 
             2. Tap the menu button in the upper right corner of Chrome.
 
