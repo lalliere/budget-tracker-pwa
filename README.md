@@ -11,11 +11,11 @@ This is a budget tracking application that has been reconfigured to be a Progres
     * Your data will be saved even when your device is not online. When the device finally reconnects, any pending transactions will be synced!
 
 * ### PWA Instructions
-    * Follow these instructions to download from your browser:
-        1. Navigate to [https://my-budget-tracker-pwa.herokuapp.com/](https://my-budget-tracker-pwa.herokuapp.com/) 
-        2. Click the plus (+) sign at the far right end of your browser's URL bar
+    * Follow these instructions to install this PWA from your browser:
+        1. Navigate to [https://my-budget-tracker-pwa.herokuapp.com/](https://my-budget-tracker-pwa.herokuapp.com/) with Chrome.
+        2. Click the plus (+) sign at the far right end of your browser's URL bar to install.
 
-    * Follow these instructions to install a PWA for your specific smartphone OS:
+    * Follow these instructions to install this PWA for your specific smartphone OS:
 
         * iOs:
 
