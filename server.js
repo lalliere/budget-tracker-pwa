@@ -15,8 +15,8 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 //routes
-require("./routes/api.js")(app);
-require("./routes/html.js")(app);
+app.use(require("./routes/api.js"));
+app.use(require("./routes/html.js"));
 
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/budget", {
   useNewUrlParser: true,
