@@ -50,8 +50,8 @@ This is a budget tracking application that has been reconfigured to be a Progres
 <img src="./public/assets/images/screenshot.png">
 
 ## Links
-* Deployed App:
-* GitHUb Repo:
+* Deployed App: [https://my-budget-tracker-pwa.herokuapp.com/](https://my-budget-tracker-pwa.herokuapp.com/) 
+* GitHub Repo: [https://github.com/lalliere/budget-tracker-pwa](https://github.com/lalliere/budget-tracker-pwa)
 
 ## Got Questions? 
 ### Ask Me:
